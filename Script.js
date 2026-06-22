@@ -5,7 +5,7 @@ const fileInput = document.querySelector("#file-input");
 const uploadBtn = document.querySelector("#upload-btn");
 
 const API_URL =
-"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AQ.Ab8RN6JMG3HXHEsSQaIiLL-pA-1ptl3EkpdXdP1zoIfrpa8zvw";
+"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AQ.Ab8RN6I5_B9rfS4ItrTzPLfKyWzR0vnLzAgn9g_PWS42GSLM0Q";
 
 let user = {
     message: null,
